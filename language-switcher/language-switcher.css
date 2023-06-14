@@ -1,0 +1,17 @@
+/* Modern style for language switcher */
+
+.language-switcher {
+    position: relative;
+    display: flex;
+    gap: 10px;
+    font-family: 'Exo 2', sans-serif;
+    margin-top: 15px;
+}
+
+.language-switcher select {
+    background-color: #3a3a3a;
+    color: white;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 15px;
+}

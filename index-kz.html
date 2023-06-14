@@ -1,0 +1,642 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>KriptoSchool</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <script src="jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="swiper%408.4.7/swiper-bundle.min.css">
+    <script src="swiper%408.4.7/swiper-bundle.min.js"></script>
+    <script src="jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="./language-switcher/language-switcher.css">
+</head>
+<body>
+<div id="app">
+    <header class="header">
+        <div class="header__container container">
+            <div class="header__row"><a class="header__logo" href="index-kz.html">
+                <picture><img src="img/logo.svg" alt=""></picture>
+            </a>
+                <vue-cabinet-button :url="clientDomain" class="header__account text" custom="true"
+                                    html='<span>Жеке кабинет</span><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.9997 22C8.04548 22 5.18244 22 3.3237 19.4545C1.46495 16.9091 8.04551 15 11.9997 15C15.9539 15 22.5354 16.9091 20.6762 19.4545C18.8169 21.9999 15.9538 22 11.9997 22Z"/><circle cx="12" cy="7" r="5"/></svg>'></vue-cabinet-button>
+            </div>
+
+            <!-- LANGUAGE SWITCHER -->
+            <div class="language-switcher">
+                <select id="language-select" onchange="switchLanguage()">
+                    <option value="chose-language">Тілді таңдаңыз</option>
+                    <option value="kazakhstan">Kazakhstan</option>
+                    <option value="russian">Russian</option>
+                </select>
+            </div>
+        </div>
+
+    </header>
+    <main>
+        <section class="intro">
+            <div class="container">
+                <picture class="money fade-animation intro-money1">
+                    <source media="(max-width: 500px)" srcset="img/intro7.png">
+                    <img src="img/intro3.png" alt=""></picture>
+                <picture class="money fade-animation intro-money2">
+                    <source media="(max-width: 500px)" srcset="img/intro8.png">
+                    <img src="img/intro4.png" alt=""></picture>
+                <picture class="money fade-animation intro-money3">
+                    <source media="(max-width: 500px)" srcset="img/intro9.png">
+                    <img src="img/intro5.png" alt=""></picture>
+                <picture class="money fade-animation intro-money4">
+                    <source media="(max-width: 500px)" srcset="img/intro10.png">
+                    <img src="img/intro6.png" alt=""></picture>
+                <div class="intro__inner"><p class="intro__subtitle">Тyракты табыс алыныз</p>
+                    <h1 class="intro__title">
+                        Криптовалюталардың <span>арбитражында</span></h1>
+                    <div class="intro__mid"><p class="intro__mid-text"><span>10 күндік</span> көп оқулықты
+                        мекендегілікті
+                        бастау үшін</p>
+                        <div class="intro__mid-img">
+                            <picture>
+                                <source media="(max-width: 950px)" srcset="img/intro11.png">
+                                <img src="img/intro1.png" alt=""></picture>
+                        </div>
+                        <div class="gift main__gift">
+                            <div class="gift__body main__gift-body"><h3 class="gift__title main__gift-title">Бұл курс
+                                бонус</h3>
+                                <p class="gift__text main__gift-text">Сілтемелерді табуға арналған ең жақсы
+                                    қызметтер</p></div>
+                            <picture>
+                                <source srcset="img/podarok1.webp" type="image/webp">
+                                <img src="img/podarok1.png" alt=""></picture>
+                        </div>
+                    </div>
+                    <div class="intro__footer">
+                        <div class="intro__footer-text">Курсқа жазылыңыз</div>
+                        <a class="intro__footer-btn button" href="#order">СЫЙЛЫҚ АЛУ</a>
+                        <div class="intro__footer-text"><span>және сыйлықты дәл</span> қазір алыңыз!</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about">
+            <div class="container">
+                <div class="about__row">
+                    <div class="about__img">
+                        <picture>
+                            <picture>
+                                <source srcset="img/about3-custom.png" type="image/webp">
+                                <img src="img/about3.png" alt=""></picture>
+                            <source media="(max-width: 650px)" srcset="img/about4.png">
+                        </picture>
+                        <div class="about__img-percent about__img-percent1">+63%</div>
+                        <div class="about__img-percent about__img-percent2">+29%</div>
+                        <div class="about__img-percent about__img-percent3">+128%</div>
+                    </div>
+                    <div class="about__body"><p class="about__text1"><b>Криптовалюталық арбитраж</b> — цифрлық <span>активтерге ақша</span>
+                        ең тиімді  тәсілдерінің бірі</p>
+                        <p class="about__text2">— Ал <span>оның мәні активті</span> биржада сұранысы мен бағасы төмен,
+                            жерде  сатып алып жоғары болған жерде сатуда жатыр<!-- продаже там, где выше.--></p></div>
+                </div>
+            </div>
+        </section>
+        <section class="for">
+            <div class="container">
+                <div class="for__inner"><h2 class="for__title title">кім <span>yшін </span> kолайлы?</h2>
+                    <p class="for__subtitle subtitle">Үшін <span>бәрі</span>, интернетте жұмыс істегенді ұнататындар!
+                    </p>
+                    <div class="for__map">
+                        <picture>
+                            <source srcset="img/for1.webp" type="image/webp">
+                            <img src="img/for1.png" alt=""></picture>
+                        <div class="for__item for__item1">
+                            <picture>
+                                <source srcset="img/for2.webp" type="image/webp">
+                                <img src="img/for2.png" alt=""></picture>
+                            <div class="for__item-text"><span>Жұмыстан </span> кетуді армандайды<br>және өз бастық
+                                болыңыз
+                            </div>
+                        </div>
+                        <div class="for__item for__item2">
+                            <picture>
+                                <source srcset="img/for3.webp" type="image/webp">
+                                <img src="img/for3.png" alt=""></picture>
+                            <div class="for__item-text"><span>Жалақыдан </span> айлыққа дейін өмір<br>сүруден шаршадым
+                            </div>
+                        </div>
+                        <div class="for__item for__item3">
+                            <picture>
+                                <source srcset="img/for4.webp" type="image/webp">
+                                <img src="img/for4.png" alt=""></picture>
+                            <div class="for__item-text"><span>Қосымша </span> табыс көзі <br>керек
+                            </div>
+                        </div>
+                        <div class="for__item for__item4">
+                            <picture>
+                                <source srcset="img/for5.webp" type="image/webp">
+                                <img src="img/for5.png" alt=""></picture>
+                            <div class="for__item-text"><span>Сіз </span> инвестициялауға ,<br>құштарсыз, бірақ әлі
+                                біліміңіз жетіспейді ме?
+                            </div>
+                        </div>
+                        <div class="for__item for__item5">
+                            <picture>
+                                <source srcset="img/for6.webp" type="image/webp">
+                                <img src="img/for6.png" alt=""></picture>
+                            <div class="for__item-text"><span>Қаржылық </span> шекті бұзғыңыз<br>келе ме?</div>
+                        </div>
+                    </div>
+                    <div class="for__slider swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="for__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/for2.webp" type="image/webp">
+                                    <img src="img/for2.png" alt=""></picture>
+                                <div class="for__item-text"><span>Мечтаете</span> уволиться с найма<br>и стать самому
+                                    себе боссом
+                                </div>
+                            </div>
+                            <div class="for__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/for3.webp" type="image/webp">
+                                    <img src="img/for3.png" alt=""></picture>
+                                <div class="for__item-text"><span>Устали</span> жить от зарплаты<br>до зарплаты</div>
+                            </div>
+                            <div class="for__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/for4.webp" type="image/webp">
+                                    <img src="img/for4.png" alt=""></picture>
+                                <div class="for__item-text"><span>Нуждаетесь</span> в дополнительном<br>источнике дохода
+                                </div>
+                            </div>
+                            <div class="for__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/for5.webp" type="image/webp">
+                                    <img src="img/for5.png" alt=""></picture>
+                                <div class="for__item-text"><span>Жаждете</span> инвестировать,<br>но пока не хватает
+                                    знаний
+                                </div>
+                            </div>
+                            <div class="for__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/for6.webp" type="image/webp">
+                                    <img src="img/for6.png" alt=""></picture>
+                                <div class="for__item-text"><span>Хотите</span> пробить финансовый<br>потолок</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="for__nav">
+                        <div class="swiper-button-prev for-button-prev"></div>
+                        <div class="swiper-pagination for-pagination"></div>
+                        <div class="swiper-button-next for-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="start">
+            <div class="container">
+                <div class="start__body"><p class="start__subtitle subtitle">Сіз өзіңізді таныдыңыз ба?</p>
+                    <h2 class="start__title title">Табуды бастаныз<br><span>криптовалюталык арбитраж бойынша</span> за
+                        10 кyнде
+                    </h2><a class="start__btn button" href="#order">ТАБЫСТЫ БАСТАУ</a></div>
+            </div>
+        </section>
+        <section class="benefits">
+            <picture class="benefits-bg">
+                <source media="(max-width: 950px)" srcset="img/benefits-bg2.png">
+                <img src="img/benefits-bg1.png" alt=""></picture>
+            <div class="container">
+                <div class="benefits__inner"><p class="benefits__subtitle subtitle">Күмән?</p>
+                    <h2 class="benefits__title title">Барлыгын олшеніз<span>артыкшылыктары мен кемшіліктері</span>
+                        осындай табыстар</h2>
+                    <div class="benefits__nav">
+                        <div class="swiper-button-prev benefits-button-prev"></div>
+                        <div class="swiper-pagination benefits-pagination"></div>
+                        <div class="swiper-button-next benefits-button-next"></div>
+                    </div>
+                    <div class="benefits__body swiper-container">
+                        <div class="benefits__row swiper-wrapper">
+                            <div class="benefits__card swiper-slide"><h3 class="benefits__card-title">артықшылықтар</h3>
+                                <div class="benefits__columns">
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Күнделікті
+                                        пайда</h4>
+                                        <p class="benefits__column-text">Криптовалюта арбитражынан табыс табу арқылы сіз
+                                            сол күні пайда аласыз</p></div>
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Минималды
+                                        тәуекел</h4>
+                                        <p class="benefits__column-text">Валюта бағасының өзгеруіне байланысты тәуекелге
+                                            бармайсыз. Бағадағы айырмашылық тек сіздің қолыңызда ойнайды</p></div>
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Шағын
+                                        инвестиция</h4>
+                                        <p class="benefits__column-text">Криптовалюта арбитражында ақша табуды бастау
+                                            үшін 80 490 теңге жеткілікті</p></div>
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Тәуелсіздік пен
+                                        еркіндік</h4>
+                                        <p class="benefits__column-text">Сіз өзіңіздің жеке бастықсыз, сондықтан сізде
+                                            бос кесте және әлемнің кез келген нүктесінен жұмыс істеу мүмкіндігі бар</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="benefits__card swiper-slide"><h3 class="benefits__card-title">Минустар</h3>
+                                <div class="benefits__columns">
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Уақыт алады</h4>
+                                        <p class="benefits__column-text">Криптовалюта арбитражында ақша табу үшін сіз
+                                            кем дегенде арнауыңыз керек <span>күніне 2 сағат</span></p></div>
+                                    <div class="benefits__column"><h4 class="benefits__column-title">Қажетті негізгі
+                                        білім</h4>
+                                        <p class="benefits__column-text">Біз <span>курста оқу</span></p></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="after">
+            <picture class="after-bg"><img src="img/after-bg.png" alt=""></picture>
+            <div class="container">
+                <div class="after__inner"><h2 class="after__title title">НЕ БОЛДЫ <span>КЕЙІН</span> КУРС?</h2>
+                    <div class="after__slider swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="after__slide after__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Арбитраж туралы білімнің жақсы негізін жасаңыз</p></div>
+                            <div class="after__slide after__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Криптовалюталардың түрлерін және олардың ерекшеліктерін түсіну</p></div>
+                            <div class="after__slide after__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Сіз тиімді топтамаларды өз бетіңізше іздей аласыз</p></div>
+                            <div class="after__slide after__item swiper-slide">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Алаяқтық схемалардың түрлері және алаяқтарға қалай тап болмау туралы біліңіз</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="after__nav">
+                        <div class="swiper-button-prev after-button-prev"></div>
+                        <div class="swiper-pagination after-pagination"></div>
+                        <div class="swiper-button-next after-button-next"></div>
+                    </div>
+                    <div class="after__row">
+                        <div class="after__wrapper after-wrapper1">
+                            <div class="after__item">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Арбитраж туралы білімнің жақсы негізін жасаңыз</p></div>
+                            <div class="after__item">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Криптовалюталардың түрлерін және олардың ерекшеліктерін түсіну</p></div>
+                        </div>
+                        <div class="after__wrapper after-wrapper2">
+                            <div class="after__item">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Сіз тиімді топтамаларды өз бетіңізше іздей аласыз</p></div>
+                            <div class="after__item">
+                                <picture>
+                                    <source srcset="img/after1.webp" type="image/webp">
+                                    <img src="img/after1.png" alt=""></picture>
+                                <p>Алаяқтық схемалардың түрлері және алаяқтарға қалай тап болмау туралы біліңіз</p>
+                            </div>
+                        </div>
+                        <div class="after__wrapper after-wrapper3">
+                            <div class="after__item">
+                                <picture>
+                                    <source srcset="img/after2.webp" type="image/webp">
+                                    <img src="img/after2.png" alt=""></picture>
+                                <p>Сыйлық алыңыз<span><br>Сілтемелерді табуға арналған үздік қызметтер</span></p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="notbad">
+            <picture class="money money-odd notbad-money1">
+                <source media="(max-width: 650px)" srcset="img/notbad4.png">
+                <img src="img/notbad1.png" alt=""></picture>
+            <picture class="money money-even notbad-money2">
+                <source media="(max-width: 650px)" srcset="img/notbad5.png">
+                <img src="img/notbad2.png" alt=""></picture>
+            <picture class="money money-odd notbad-money3">
+                <source media="(max-width: 650px)" srcset="img/notbad6.png">
+                <img src="img/notbad3.png" alt=""></picture>
+            <div class="container">
+                <div class="notbad__row"><h2 class="notbad__title title">Kызыkты?</h2>
+                    <p class="notbad__text">Курсқа тіркеліп, <span>10 күннен</span> кейін табыс таба бастаңыз</p><a
+                            class="notbad__btn button" href="#order">ТАБЫСТЫ БАСТАУ</a></div>
+            </div>
+        </section>
+        <section class="author">
+            <picture><img class="money money-odd author-money1 author-money" src="img/author6.png" alt=""></picture>
+            <picture><img class="money money-even author-money2 author-money" src="img/author7.png" alt=""></picture>
+            <div class="container">
+                <div class="author__row">
+                    <picture>
+                        <source srcset="img/author4.webp" type="image/webp">
+                        <img src="img/author4.png" alt=""></picture>
+                    <div class="author__col"><h2 class="author__title title">Курста жyмыс істеді <span>ТЕЖІРИБЕЛІ</span>
+                        сарапшы</h2>
+                        <ul class="author__list">
+                            <li><span>Криптовалюта арбитражында 3 жылдан</span> астам тәжірибе</li>
+                            <li>Күніне <span>50-100 мың </span>табысқа шықты</li>
+                            <li>Оқытылды <span>жүзден астам</span> криптовалюта арбитражында ақша тапқысы келетіндер
+                            </li>
+                        </ul>
+                        <p class="author__text">Мен барлық жинақталған тәжірибемді жинадым және оны сіздермен қуанышпен
+                            бөлісуге дайынмын.</p></div>
+                </div>
+            </div>
+        </section>
+        <section class="why">
+            <div class="container">
+                <div class="why__inner"><h2 class="why__title title">Неліктен бізді <span>тандайсыз</span>?</h2>
+                    <div class="why__row swiper-container">
+                        <div class="why__columns swiper-wrapper">
+                            <div class="why__column swiper-slide">
+                                <div class="why__column-img">
+                                    <picture>
+                                        <source srcset="img/why1.webp" type="image/webp">
+                                        <img src="img/why1.png" alt=""></picture>
+                                </div>
+                                <h5 class="why__column-title">Құзыретті бағдарлама</h5>
+                                <p class="why__column-text">Криптовалюталық арбитраж саласындағы маманның қатысуымен
+                                    құрастырылған</p></div>
+                            <div class="why__column swiper-slide">
+                                <div class="why__column-img">
+                                    <picture>
+                                        <source srcset="img/why2.webp" type="image/webp">
+                                        <img src="img/why2.png" alt=""></picture>
+                                </div>
+                                <h5 class="why__column-title">Жылдам бастау</h5>
+                                <p class="why__column-text">Сіз курска тіркелгеннен кейін бірден оқуды бастай
+                                    аласыз.</p></div>
+                            <div class="why__column swiper-slide">
+                                <div class="why__column-img">
+                                    <picture>
+                                        <source srcset="img/why3.webp" type="image/webp">
+                                        <img src="img/why3.png" alt=""></picture>
+                                </div>
+                                <h5 class="why__column-title">Рульде – СІЗ!</h5>
+                                <p class="why__column-text">Қай жерде және қашан жаттығатыны сізге байланысты.</p></div>
+                        </div>
+                    </div>
+                    <div class="why__nav">
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-pagination"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="reviews">
+            <div class="container">
+                <div class="reviews__head"><p class="reviews__subtitle subtitle">Сіз сәтсіздікке ұшыраудан қорқасыз
+                    ба?</p>
+                    <h2 class="title reviews__title">Олар мyмкін - сіз аласыз <span>сіз</span></h2></div>
+            </div>
+            <div class="container">
+                <div class="reviews__nav">
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-button-next"></div>
+                </div>
+            </div>
+            <div class="reviews__body">
+                <div class="reviews__slider swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="reviews__item review swiper-slide">
+                            <div class="review__head">
+                                <div class="review__author">
+                                    <picture>
+                                        <source srcset="img/r1.webp" type="image/webp">
+                                        <img src="img/r1.png" alt=""></picture>
+                                    <div><h5>Павел Шлепак</h5>
+                                        <p>1 тамыз 13:14</p></div>
+                                </div>
+                                <div class="review__drop"></div>
+                            </div>
+                            <div class="review__body"><p><b>Криптовалюта арбитражында бариста ретінде жұмысын
+                                тастады</b><br><br>Курсқа дейін мен арбитраж туралы ештеңе білмедім. Бірден дерлік ақша
+                                таба бастады. Менің ойымша, бұл сөзсіз сәтті :)</p></div>
+                            <div class="review__foot">
+                                <div class="review__actions">
+                                    <div class="review__action review__action--like"><p>23</p></div>
+                                    <div class="review__action review__action--comm"><p>9</p></div>
+                                    <div class="review__action review__action--rep"><p>8</p></div>
+                                </div>
+                                <div class="review__watch"><p>1243</p></div>
+                            </div>
+                        </div>
+                        <div class="reviews__item review swiper-slide">
+                            <div class="review__head">
+                                <div class="review__author">
+                                    <picture>
+                                        <source srcset="img/r2.webp" type="image/webp">
+                                        <img src="img/r2.png" alt=""></picture>
+                                    <div><h5>Илья Голушко</h5>
+                                        <p>12 мамыр сағат 17:06</p></div>
+                                </div>
+                                <div class="review__drop"></div>
+                            </div>
+                            <div class="review__body"><p><b>Екі аптада 390 000 теңге табыс тапты</b><br><br>Бұл
+                                интернеттен ақпарат іздегеннен әлдеқайда жақсы!! Крипттік арбитраж туралы білуіңіз керек
+                                нәрсенің бәрі бір жерде жинақталған. Өрт!</p></div>
+                            <div class="review__foot">
+                                <div class="review__actions">
+                                    <div class="review__action review__action--like"><p>44</p></div>
+                                    <div class="review__action review__action--comm"><p>16</p></div>
+                                    <div class="review__action review__action--rep"><p>8</p></div>
+                                </div>
+                                <div class="review__watch"><p>632</p></div>
+                            </div>
+                        </div>
+                        <div class="reviews__item review swiper-slide">
+                            <div class="review__head">
+                                <div class="review__author">
+                                    <picture>
+                                        <source srcset="img/r4.webp" type="image/webp">
+                                        <img src="img/r4.png" alt=""></picture>
+                                    <div><h5>Павел Козочкин</h5>
+                                        <p>25 сәуір 18:21</p></div>
+                                </div>
+                                <div class="review__drop"></div>
+                            </div>
+                            <div class="review__body"><p><b>Менің табысымды айына 100 мыңға арттырдым</b><br><br>Мен
+                                консерваторлар деп аталатындарданмын. Мен үшін табыста тәуекелдердің аз болуы маңызды.
+                                Арбитраждық криптовалюта маған сәйкес келетінін білгіңіз келе ме? Керемет сәйкестік!</p>
+                            </div>
+                            <div class="review__foot">
+                                <div class="review__actions">
+                                    <div class="review__action review__action--like"><p>234</p></div>
+                                    <div class="review__action review__action--comm"><p>63</p></div>
+                                    <div class="review__action review__action--rep"><p>16</p></div>
+                                </div>
+                                <div class="review__watch"><p>881</p></div>
+                            </div>
+                        </div>
+                        <div class="reviews__item review swiper-slide">
+                            <div class="review__head">
+                                <div class="review__author">
+                                    <picture>
+                                        <source srcset="img/r5.webp" type="image/webp">
+                                        <img src="img/r5.png" alt=""></picture>
+                                    <div><h5>Александр Толстиков</h5>
+                                        <p>1 шілде 13:12</p></div>
+                                </div>
+                                <div class="review__drop"></div>
+                            </div>
+                            <div class="review__body"><p><b>Жаттығу кезінде ол +32 мың болды.</b><br><br>Барлығы тікелей
+                                нүктеге дейін. Тек ең маңызды және қажетті және су жоқ. Курс піл сияқты бақытты. Оның
+                                дамуының артында тұрған әрбір адам – үлкен құрмет.</p></div>
+                            <div class="review__foot">
+                                <div class="review__actions">
+                                    <div class="review__action review__action--like"><p>25</p></div>
+                                    <div class="review__action review__action--comm"><p>5</p></div>
+                                    <div class="review__action review__action--rep"><p>1</p></div>
+                                </div>
+                                <div class="review__watch"><p>643</p></div>
+                            </div>
+                        </div>
+                        <div class="reviews__item review swiper-slide">
+                            <div class="review__head">
+                                <div class="review__author">
+                                    <picture>
+                                        <source srcset="img/r6.webp" type="image/webp">
+                                        <img src="img/r6.png" alt=""></picture>
+                                    <div><h5>Евгений Гардер</h5>
+                                        <p>22 қараша сағат 11:10</p></div>
+                                </div>
+                                <div class="review__drop"></div>
+                            </div>
+                            <div class="review__body"><p><b>Оқу барысында ақша табуға мүмкіндік таптым</b><br><br>Мен
+                                бақыттымын! Қосымша табыс көзі ретінде - супер тақырып. Не болатынын көрейік, бірақ мен
+                                нәтижелеріме өте ризамын.</p></div>
+                            <div class="review__foot">
+                                <div class="review__actions">
+                                    <div class="review__action review__action--like"><p>35</p></div>
+                                    <div class="review__action review__action--comm"><p>9</p></div>
+                                    <div class="review__action review__action--rep"><p>23</p></div>
+                                </div>
+                                <div class="review__watch"><p>346</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="order">
+            <picture class="order-bg">
+                <source media="(max-width: 450px)" srcset="img/order-bg3.png">
+                <img src="img/order-bg.png" alt=""></picture>
+            <picture><img class="money money-odd order-money1 order-money" src="img/order1.png" alt=""></picture>
+            <picture><img class="money money-even order-money2 order-money" src="img/order2.png" alt=""></picture>
+            <picture><img class="money money-odd order-money3 order-money" src="img/order3.png" alt=""></picture>
+            <picture><img class="money money-even order-money4 order-money" src="img/order4.png" alt=""></picture>
+            <picture><img class="money money-odd order-money5 order-money" src="img/order5.png" alt=""></picture>
+            <div class="container">
+                <div class="order__inner">
+                    <div class="order__body"><h2 class="order__body-title title"><span>10 кyннен</span>
+                        Кейін криптовалюта арбитражында табыс табуды бастаңыз</h2>
+                        <div class="order__percent">Жеңілдік <span>{{ discount }}</span></div>
+                        <div class="price">
+                            <div class="price__new">145₸</div>
+                            <del class="price__old">4774₸</del>
+                        </div>
+                        <div class="timer">
+                            <div class="timer__body">
+                                <div class="timer__item">
+                                    <div class="timer__num minutes">15</div>
+                                </div>
+                                <div class="timer__item timer__dots">:</div>
+                                <div class="timer__item">
+                                    <div class="timer__num seconds">00</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="gift order__gift">
+                            <picture>
+                                <source srcset="img/podarok2.webp" type="image/webp">
+                                <img src="img/podarok2.png" alt=""></picture>
+                            <div class="gift__body order__gift-body"><h3 class="gift__title order__gift-title">Курсқа
+                                сыйлық</h3>
+                                <p class="gift__text order__gift-text">Сілтемелерді табуға арналған үздік қызметтер</p>
+                            </div>
+                        </div>
+                        <vue-form form-id="bottom" btn-text="ТАБЫСТЫ БАСТАУ" input-text="E-mail"
+                                  @loader="setLoader" custom-btn="true" html="<span>ТАБЫСТЫ БАСТАУ</span>"
+                                  btn-content="НАЧАТЬ ЗАРАБАТЫВАТЬ" :ref-link="ref" :tiktok="tiktok"
+                                  :product="product"></vue-form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="faq">
+            <div class="container">
+                <div class="faq__header"><h2 class="title faq__title">Сұрақтарыңыз бар ма?</h2></div>
+                <div class="faq__body">
+                    <ul class="faq__list">
+                        <li class="faq__list-item faq-item">
+                            <div class="faq-item__header"><h3>Мен бұрын ешқашан мұндай нәрсені жасаған емеспін. Мен
+                                жетістікке жетемін бе?</h3><span></span></div>
+                            <div class="faq-item__body"><p>Сөзсіз! Курс криптовалюталық арбитраж туралы бірінші рет
+                                естіп, оны аздап түсінетіндерге арналған. Сізге тек оқуға деген құлшыныс керек, ал
+                                қалғаны өз қолымызда!</p></div>
+                        </li>
+                        <li class="faq__list-item faq-item">
+                            <div class="faq-item__header"><h3>Мен криптовалюта арбитражын негізгі жұмысыммен біріктіре
+                                аламын ба?</h3><span></span></div>
+                            <div class="faq-item__body"><p>Әрине! Жақсы нәтиже алу үшін криптовалюта арбитражына күніне
+                                2 сағат жұмсау жеткілікті. Сондықтан мұндай табыстар толық жұмыс істейтіндерге де,
+                                оқитындарға да қолайлы.</p></div>
+                        </li>
+                        <li class="faq__list-item faq-item">
+                            <div class="faq-item__header"><h3>Табуды бастау үшін маған қанша ақша қажет?</h3>
+                                <span></span></div>
+                            <div class="faq-item__body"><p>Бастау үшін 80 000 ₸ жеткілікті. Бірақ бастапқы капитал
+                                неғұрлым жоғары болса, жақсы нәтижеге жету оңайырақ болады.</p></div>
+                        </li>
+                        <li class="faq__list-item faq-item">
+                            <div class="faq-item__header"><h3>Мен мұны өз бетімше анықтай алатын болсам, неге курсқа
+                                бару керек?</h3><span></span></div>
+                            <div class="faq-item__body"><p>Әрине, сіз бәрі қалай жұмыс істейтінін өзіңіз анықтай аласыз,
+                                бірақ қателеспеу үшін тәжірибелі адамдарға жүгінген дұрыс. Олар сіздің уақытыңызды
+                                үнемдейді, өздерінің лайфхактары мен құпияларымен бөліседі және сізге ақша жоғалтып қана
+                                қоймай, оны көбейтуге көмектеседі!</p></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+    <vue-footer-common :footer-data="footerData"></vue-footer-common>
+    <vue-loader :is-loader="isLoader"></vue-loader>
+</div>
+<script src="language-switcher/switcher.js"></script>
+<script src="_sys/js/bundle.js"></script>
+<script src="js/scripts.js"></script>
+<script src="/js/urlParams.js"></script>
+</body>
+</html>
