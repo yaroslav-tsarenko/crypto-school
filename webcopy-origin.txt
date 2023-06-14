@@ -1,0 +1,516 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\kriptolessons.com\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-2.2.4.js
+File Name: C:\Downloaded Web Sites\kriptolessons.com\jquery-2.2.4.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600&family=Roboto:wght@400;500;700&family=Russo+One&display=swap
+File Name: C:\Downloaded Web Sites\kriptolessons.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600&family=Roboto:wght@400;500;700&family=Russo+One&display=swap);html{-webkit-text-size-adjust:100%25;line-height:1.15}main{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-box-flex:1;-ms-flex-positive:1;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;flex-grow:1}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace;font-size:1em}small{font-size:80%25}sub,sup{font-size:75%25;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%25;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%25;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden],template{display:none}body{-webkit-box-orient:vertical;-webkit-box-direction:normal;background:
+File Name: C:\Downloaded Web Sites\kriptolessons.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v20/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\exo2\v20\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Downloaded Web Sites\kriptolessons.com\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://kriptolessons.com/
+File Name: C:\Downloaded Web Sites\kriptolessons.com\index.htm
+Content Type: text/html
+
+Uri: https://kriptolessons.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/css/style.css
+File Name: C:\Downloaded Web Sites\kriptolessons.com\css\style.css
+Content Type: text/css
+
+Uri: https://kriptolessons.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/about-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\about-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/about-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\about-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/about3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\about3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/about3.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\about3.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/about4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\about4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/after-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\after-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/after1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\after1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/after1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\after1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/after2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\after2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/after2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\after2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/arr-big.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\arr-big.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/arr-big2.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\arr-big2.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/arr-faq.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\arr-faq.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/arr-faq2.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\arr-faq2.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/author1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/author1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/author2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/author2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/author3.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author3.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/author4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/author4.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author4.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/author6.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author6.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/author7.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\author7.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/benefits-bg1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\benefits-bg1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/benefits-bg2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\benefits-bg2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/benefits1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\benefits1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/benefits1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\benefits1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/benefits2.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\benefits2.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/comm.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\comm.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/for-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for-bg2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for-bg2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for-bg2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for-bg2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for3.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for3.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for4.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for4.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for5.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for5.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for5.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for5.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/for6.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for6.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/for6.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\for6.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/gift-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\gift-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/gift-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\gift-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/intro-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/intro1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro10.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro10.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro11.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro11.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/intro3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro5.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro5.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro6.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro6.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro7.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro7.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro8.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro8.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/intro9.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\intro9.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/like.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\like.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/logo.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/notbad-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/notbad1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad5.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad5.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/notbad6.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\notbad6.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order-bg3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order-bg3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order2.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order2.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/order3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/order5.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\order5.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/podarok1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\podarok1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/podarok1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\podarok1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/podarok2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\podarok2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/podarok2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\podarok2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/r-arr.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r-arr.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/r1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/r1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/r2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/r2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/r4.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r4.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/r4.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r4.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/r5.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r5.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/r5.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r5.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/r6.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r6.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/r6.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\r6.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/rep.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\rep.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/start-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\start-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/start-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\start-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/watch.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\watch.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/img/why-bg.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why-bg.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/why-bg.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why-bg.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/why1.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why1.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/why1.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why1.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/why2.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why2.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/why2.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why2.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/img/why3.png
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why3.png
+Content Type: image/png
+
+Uri: https://kriptolessons.com/img/why3.webp
+File Name: C:\Downloaded Web Sites\kriptolessons.com\img\why3.webp
+Content Type: image/webp
+
+Uri: https://kriptolessons.com/js/scripts.js
+File Name: C:\Downloaded Web Sites\kriptolessons.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://kriptolessons.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\kriptolessons.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://kriptolessons.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\kriptolessons.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://kriptolessons.com/_sys/js/bundle.js
+File Name: C:\Downloaded Web Sites\kriptolessons.com\_sys\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/swiper@8.4.7/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\kriptolessons.com\swiper@8.4.7\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@8.4.7/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\kriptolessons.com\swiper@8.4.7\swiper-bundle.min.js
+Content Type: application/javascript
+
