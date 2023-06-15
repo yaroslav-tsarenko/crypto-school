@@ -1,0 +1,116 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://skill-pad.com/
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\index.htm
+Content Type: text/html
+
+Uri: https://skill-pad.com/apple-touch-icon.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/css/style.css
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\css\style.css
+Content Type: text/css
+
+Uri: https://skill-pad.com/favicon-16x16.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/favicon-32x32.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/banner.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\banner.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/bg.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\bg.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/case.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\case.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/flock.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\flock.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/flock2.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\flock2.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/fmc.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\fmc.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/fmir.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\fmir.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/fpci.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\fpci.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/fsecure.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\fsecure.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/fvisa.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\fvisa.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/idea.png
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\idea.png
+Content Type: image/png
+
+Uri: https://skill-pad.com/img/logo.svg
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://skill-pad.com/js/scripts.js
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://skill-pad.com/safari-pinned-tab.svg
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://skill-pad.com/site.webmanifest
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://static.skill-pad.com/offer/skill-pad.com.pdf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\offer\skill-pad.com.pdf
+Content Type: application/pdf
+
+Uri: https://static.skill-pad.com/permission/skill-pad.com.pdf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\permission\skill-pad.com.pdf
+Content Type: application/pdf
+
+Uri: https://static.skill-pad.com/policy/skill-pad.com.pdf
+File Name: D:\Projects\Downloaded Web Sites\private-room\skill-pad.com\policy\skill-pad.com.pdf
+Content Type: application/pdf
+
