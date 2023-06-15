@@ -3528,7 +3528,7 @@ var SentryDomain, debounce = function (n, r) {
                 followingInterval: 168,
                 language: "ru",
                 firstCheckbox: 'Вы даете согласие на <a target="_blank" class="form__check-text" href="/policy.pdf">обработку персональных данных</a>, а также подтверждаете ознакомление с <a target="_blank" class="form__check-text" href="/offer.pdf">публичной офертой</a> и <a target="_blank" class="form__check-text" href="/tariff.pdf">тарифами</a>',
-                secondCheckbox: 'Вы подтверждаете ознакомление с автоматическими списаниями. <b>Первое списание в размере 980₽ через 72 часа</b> после подписки и далее, согласно <a href="/tariff.pdf" target="_blank" class="form__check-text">тарифу</a> раз в 7 дней 980₽ или 140₽ за день доступа в личный кабинет'
+                secondCheckbox: 'Вы подтверждаете ознакомление с автоматическими списаниями. <b>Первое списание в размере 5260₸ через 72 часа</b> после подписки и далее, согласно <a href="/tariff.pdf" target="_blank" class="form__check-text">тарифу</a> раз в 7 дней 5260₸ или 750₸ за день доступа в личный кабинет'
             },
             footerData: {
                 link: "test.com",
